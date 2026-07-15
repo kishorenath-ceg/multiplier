@@ -8,3 +8,4 @@ public class Main {
         System.out.println(multiply(5, 4));
     }
 }
+
